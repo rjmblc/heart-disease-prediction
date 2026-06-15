@@ -1,0 +1,7 @@
+PROJECT_PATH = project/main/folder
+MODEL_DIR  = model/dir
+MODEL_NAME = hmodel/name*.joblib
+LOG_DIR = log/directory
+LOG_NAME = log/name
+
+API_URL = api_url
